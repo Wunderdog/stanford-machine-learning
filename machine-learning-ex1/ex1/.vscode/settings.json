@@ -1,0 +1,10 @@
+{
+    "code-runner.executorMap": {
+        "matlab": "octave",
+        "octave": "octave"
+    },
+    "code-runner.executorMapByFileExtension": {
+        ".m": "octave"
+
+    }
+}
